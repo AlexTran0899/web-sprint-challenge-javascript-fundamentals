@@ -16,7 +16,7 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-
+//because its in the same curly bracket as "function nestedFunction and function myFunction". Its in the same scope.
 
 
 
